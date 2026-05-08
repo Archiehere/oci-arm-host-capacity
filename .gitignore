@@ -1,2 +1,5 @@
 vendor/
 .env
+oci.log
+oci_cache.json
+too_many_requests_waiter.txt
